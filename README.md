@@ -1,1 +1,1 @@
-# Demo for learing git
+# Demo for learning git
